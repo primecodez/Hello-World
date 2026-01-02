@@ -1,0 +1,15 @@
+Some useful github commands 
+
+1.For creating new branch 
+  git checkout branchname # this creates branch without switching to it
+
+    git checkout -b branchname # this creates branch and switch to it
+
+2.To add changes
+  git add . 
+
+  git add filename  # adds that specific filename
+
+3.To push changes
+  git push -u origin branch name
+  
