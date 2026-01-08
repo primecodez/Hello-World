@@ -59,12 +59,12 @@ def todo_list():
                 print("Invalid task number.")
 
         elif user_choice == "5":
-            print("Exiting the to-do list application. Thanks for using it!")
+            print("Exiting the to-do list application. Thanks for using it.Have a great day!")
             break
 
         else:
             print("Invalid option. Please choose a number from 1 to 5.")
 
 
-if __name__ == "__main__":
-    todo_list()
+
+todo_list()
