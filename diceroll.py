@@ -20,5 +20,5 @@ def dice_game():
         else:
             print("Invalid input. Please enter 'y' or 'n'.")
 
-if __name__ == "__main__":
-    dice_game()
+
+dice_game()
