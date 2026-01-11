@@ -8,4 +8,4 @@ def password_generator(length=10):
     return password
 
 
-if __name__ == "__main__":    print(password_generator(8))
+print(password_generator(8))
